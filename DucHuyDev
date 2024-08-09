@@ -1,8 +1,6 @@
 
 [General]
 dns-server = system, 108.137.44.39, 108.137.44.9, puredns.org:853
-[Panel]
-SubscribeInfo = title=Thông tin đăng ký 🛡️Datavip.site🛡️, style=info
 [Proxy]
 [1]› 🇻🇳 𝐌𝐚𝐱 𝐒𝐩𝐞𝐞𝐝 𝟏 🚀 = vmess, 103.238.235.125, 80, username=3122dfd0-6790-4345-9c6d-9b9186bc4906, tls=false, ws=true, ws-path=/, sni=m.tiktok.com, ws-headers=Host:m.tiktok.com, skip-cert-verify=1, tfo=true, udp-relay=true
 [2]› 🇻🇳 𝐌𝐚𝐱 𝐒𝐩𝐞𝐞𝐝 𝟐 🚀 = vmess, 103.238.235.104, 80, username=3122dfd0-6790-4345-9c6d-9b9186bc4906, tls=false, ws=true, ws-path=/, sni=m.tiktok.com, ws-headers=Host:m.tiktok.com, skip-cert-verify=1, tfo=true, udp-relay=true
